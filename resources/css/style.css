@@ -10,24 +10,32 @@ h1{
   font-weight: bold;
   color: white
 }
-p.header{
+a.header{
   font-size: 18px;
-  color: white;
 }
 h2{
   font-size: 32px;
   font-weight: bold;
 }
-h3.body1, h3.body2{
+h3{
   font-size: 23px;
   font-weight: bold;
 }
 p.body1, p.body2{
   font-size: 14px;
 }
-#ny {
+#ny{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   font-size: 23px;
   font-weight: bold;
+  color: white;
+}
+.footer{
+  color: white;
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
+}
+a.link{
   color: white;
 }
